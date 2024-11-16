@@ -10,5 +10,3 @@ numero = int(input())
 
 # Chamada da função e impressão do resultado
 print(verifica_paridade(numero))
-
-
