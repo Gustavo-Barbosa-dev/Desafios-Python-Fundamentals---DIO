@@ -10,4 +10,5 @@ I'm a tech enthusiast and a student of System Analysis and Development. This rep
 📫 Let’s connect!
 
 💼 [LinkedIn](https://www.linkedin.com/in/gustavo-barbosa-antonelli-966718203/).
+
 ✉️ Email = gustavo.b.antonelli@gmail.com.
